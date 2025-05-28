@@ -49,6 +49,7 @@ A Streamlit app that turns an uploaded image into a short, funny audio story usi
 
      ```env
      GROQ_API_KEY=your_groq_api_key_here
+     HUGGINGFACEHUB_API_TOKEN=your_hugging_face_tocken_here
      ```
 
 5. **Run the app**
