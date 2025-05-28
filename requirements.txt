@@ -1,0 +1,12 @@
+python-dotenv
+transformers
+torch
+torchvision
+accelerate
+huggingface-hub
+langchain-groq
+langchain-core
+streamlit
+requests
+Pillow
+gtts

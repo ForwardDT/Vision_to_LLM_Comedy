@@ -1,0 +1,4 @@
+.env
+.venv
+env_actuate.txt
+app test2.ipynb
