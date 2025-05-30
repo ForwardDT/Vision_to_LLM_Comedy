@@ -67,12 +67,16 @@ A Streamlit app that turns an uploaded image into a short, funny audio story usi
 1. Place a sample image in `Test_Folder/sample.jpg`.
 2. Upload it via the Streamlit uploader.
 3. The app will:
-
    * Caption the image
    * Generate a short comedic story (max 60 words)
    * Produce audio via Groq or gTTS fallback
    * Play the audio in-browser
 
++ ## 📷 Example Result
++
++ Here’s what the output looks like for `Test_Folder/results1.png`:
++
++ ![Example Result](Test_Folder/results1.png)
 ---
 
 ## ⚙️ Configuration
